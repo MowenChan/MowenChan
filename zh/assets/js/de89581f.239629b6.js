@@ -1,0 +1,1 @@
+(self.webpackChunkbakupub=self.webpackChunkbakupub||[]).push([[7249],{6109:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/zh/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/zh/blog/tags/hello"}')}}]);
